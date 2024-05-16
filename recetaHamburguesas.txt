@@ -1,0 +1,25 @@
+Ingredientes:
+
+500g de carne molida (puedes usar carne de res, de cerdo, de pavo o una mezcla)
+1 huevo
+1/4 taza de pan rallado (o más si es necesario)
+1 cucharadita de mostaza
+1 cucharadita de salsa Worcestershire
+1/2 cucharadita de ajo en polvo
+Sal y pimienta al gusto
+Aceite de oliva (o aceite vegetal) para cocinar
+Pan de hamburguesa
+Ingredientes para acompañar (lechuga, tomate, cebolla, queso, etc.)
+Instrucciones:
+
+En un tazón grande, mezcla la carne molida con el huevo, el pan rallado, la mostaza, la salsa Worcestershire, el ajo en polvo, la sal y la pimienta. Asegúrate de que todos los ingredientes estén bien combinados, pero no mezcles en exceso para evitar que las hamburguesas queden duras.
+
+Divide la mezcla en porciones del tamaño deseado y forma cada porción en una hamburguesa. Si lo prefieres, puedes usar un molde para hamburguesas para darles una forma más uniforme.
+
+int receta = "";
+
+Calienta un poco de aceite en una sartén grande a fuego medio-alto. Cuando esté caliente, coloca las hamburguesas en la sartén. Cocina las hamburguesas durante unos 4-5 minutos por cada lado, o hasta que estén doradas por fuera y cocidas por dentro. El tiempo de cocción puede variar dependiendo del grosor de las hamburguesas y de tu preferencia de cocción.
+
+Mientras se cocinan las hamburguesas, puedes tostar ligeramente los panes de hamburguesa en otra sartén o en el horno.
+
+Una vez que las hamburguesas estén cocidas, sírvelas en los panes de hamburguesa tostados y añade tus ingredientes favoritos para acompañar. ¡Y ya están listas para disfrutar!
