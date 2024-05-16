@@ -1,0 +1,27 @@
+Ingredientes:
+	Masa:
+		3 tazas de harina
+		100 g de mantequilla
+		1 huevo
+		1/2 taza de agua fría
+	Relleno:
+		300 g de carne molida
+		1 cebolla
+		1 pimiento rojo
+		2 dientes de ajo
+		1 tomate
+		1/2 taza de aceitunas
+	Especias: comino, paprika, sal, pimienta
+Instrucciones:
+	Masa:
+		Mezclar harina, mantequilla, huevo y agua.
+		Reposar en el refrigerador 30 min.
+	Relleno:
+		Saltear cebolla, pimiento, ajo.
+		Agregar carne, tomate, aceitunas, especias.
+		Cocinar y dejar enfriar.
+	Armado:
+		Estirar masa.
+		Rellenar y cerrar.
+		Pincelar con huevo.
+		Hornear a 180°C por 20-25 min.
