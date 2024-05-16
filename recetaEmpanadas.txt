@@ -24,5 +24,4 @@ Instrucciones:
 		Estirar masa.
 		Rellenar y cerrar.
 		Pincelar con huevo.
-		String valor=1;
 		Hornear a 180°C por 20-25 min.
