@@ -16,8 +16,6 @@ En un tazón grande, mezcla la carne molida con el huevo, el pan rallado, la mos
 
 Divide la mezcla en porciones del tamaño deseado y forma cada porción en una hamburguesa. Si lo prefieres, puedes usar un molde para hamburguesas para darles una forma más uniforme.
 
-int receta = "";
-
 Calienta un poco de aceite en una sartén grande a fuego medio-alto. Cuando esté caliente, coloca las hamburguesas en la sartén. Cocina las hamburguesas durante unos 4-5 minutos por cada lado, o hasta que estén doradas por fuera y cocidas por dentro. El tiempo de cocción puede variar dependiendo del grosor de las hamburguesas y de tu preferencia de cocción.
 
 Mientras se cocinan las hamburguesas, puedes tostar ligeramente los panes de hamburguesa en otra sartén o en el horno.
